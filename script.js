@@ -1,3 +1,5 @@
+'use strict';
+
 $('#table').bootstrapTable({
     columns: cols,
     data: data,
